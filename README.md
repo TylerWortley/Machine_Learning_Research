@@ -1,2 +1,2 @@
-# Practice
-just for fun - practice, experimenting, and learning!
+# Machine Learning Research
+learning and experimenting!
